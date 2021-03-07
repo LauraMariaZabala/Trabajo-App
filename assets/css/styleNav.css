@@ -194,6 +194,7 @@ body {
   margin-top: 20px;
   display: flex;
   flex-direction: column;
+  
 }
 
 .card-product .product-img {
@@ -239,3 +240,11 @@ body {
     color: white;
 
   }
+
+.btn-cuantity{
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border-color: inherit;
+  border-style: none;
+}  
